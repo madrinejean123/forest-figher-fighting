@@ -71,6 +71,10 @@ forest_firefighters/
 └── worlds/                # Webots world file
 ```
 
+
+https://github.com/user-attachments/assets/0eba0238-0787-4b49-b7a2-704525435bb2
+
+
 ## Author
 
 Namulinde Jean Madrine  
